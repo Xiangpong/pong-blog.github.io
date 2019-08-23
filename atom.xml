@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-22T04:27:27.221Z</updated>
+  <updated>2019-08-23T00:03:27.766Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,12 +21,12 @@
     <link href="http://yoursite.com/2019/08/22/SSM%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA-%E4%B8%8A/"/>
     <id>http://yoursite.com/2019/08/22/SSM框架搭建-上/</id>
     <published>2019-08-22T04:23:50.000Z</published>
-    <updated>2019-08-22T04:27:27.221Z</updated>
+    <updated>2019-08-23T00:03:27.766Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;在谈SSM框架的搭建之前，说一下这个项目的特点之一： 分布式架构&lt;/p&gt;
-&lt;h2 id=&quot;聊一聊架构以及传统的“集群架构”和“分布式架构”的区别&quot;&gt;&lt;a href=&quot;#聊一聊架构以及传统的“集群架构”和“分布式架构”的区别&quot; class=&quot;headerlink&quot; title=&quot;聊一聊架构以及传统的“集群架构”和“分布式架构”的区别&quot;&gt;&lt;/a&gt;聊一聊架构以及传统的“集群架构”和“分布式架构”的区别&lt;/h2&gt;&lt;h3 id=&quot;单机架构&quot;&gt;&lt;a href=&quot;#单机架构&quot; class=&quot;headerlink&quot; title=&quot;单机架构&quot;&gt;&lt;/a&gt;单机架构&lt;/h3&gt;&lt;p&gt;讲集群架构之前，要先提一下单机架构。例如一个简单的web项目，这个项目被部署在一个服务器上，这样的架构模式就是单机架构。显而易见：单个服务器能够处理能力是有限的，当这个项目不断添加新的业务处里，访问量不断增加时，单机往往无法负荷，最常见的就是访问某个网站时页面显示过慢（没错！同志！有时候打开一个网页打开半天其实不是你网速不行）&lt;/p&gt;
+      &lt;p&gt;在谈SSM框架的搭建之前，聊一聊这个项目的特点之一： 分布式架构&lt;/p&gt;
+&lt;h2 id=&quot;架构以及传统的“集群架构”和“分布式架构”的区别&quot;&gt;&lt;a href=&quot;#架构以及传统的“集群架构”和“分布式架构”的区别&quot; class=&quot;headerlink&quot; title=&quot;架构以及传统的“集群架构”和“分布式架构”的区别&quot;&gt;&lt;/a&gt;架构以及传统的“集群架构”和“分布式架构”的区别&lt;/h2&gt;&lt;h3 id=&quot;单机架构&quot;&gt;&lt;a href=&quot;#单机架构&quot; class=&quot;headerlink&quot; title=&quot;单机架构&quot;&gt;&lt;/a&gt;单机架构&lt;/h3&gt;&lt;p&gt;讲集群架构之前，要先提一下单机架构。例如一个简单的web项目，这个项目被部署在一个服务器上，这样的架构模式就是单机架构。显而易见：单个服务器能够处理能力是有限的，当这个项目不断添加新的业务处里，访问量不断增加时，单机往往无法负荷，最常见的就是访问某个网站时页面显示过慢（没错！同志！有时候打开一个网页打开半天其实不是你网速不行）&lt;/p&gt;
     
     </summary>
     
