@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-02T09:41:02.028Z</updated>
+  <updated>2019-09-03T13:22:04.181Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,15 +17,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>浅谈WebSocket</title>
+    <title>雷峰塔不是雷锋的塔，WebScoket不是Web的Socket</title>
     <link href="http://yoursite.com/2019/09/02/%E6%B5%85%E8%B0%88WebSocket/"/>
     <id>http://yoursite.com/2019/09/02/浅谈WebSocket/</id>
     <published>2019-09-02T09:37:51.000Z</published>
-    <updated>2019-09-02T09:41:02.028Z</updated>
+    <updated>2019-09-03T13:22:04.181Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;雷峰塔不是雷锋的塔，WebScoket不是Web的Socket&quot;&gt;&lt;a href=&quot;#雷峰塔不是雷锋的塔，WebScoket不是Web的Socket&quot; class=&quot;headerlink&quot; title=&quot;雷峰塔不是雷锋的塔，WebScoket不是Web的Socket&quot;&gt;&lt;/a&gt;雷峰塔不是雷锋的塔，WebScoket不是Web的Socket&lt;/h1&gt;&lt;p&gt;第一次接触WebSocket，感觉和第一次接触JavaScript一样，诶这玩意是不是socket家的哪门亲戚啊？&lt;/p&gt;
+      &lt;p&gt;第一次接触WebSocket，感觉和第一次接触JavaScript一样，诶这玩意是不是socket家的哪门亲戚啊？&lt;/p&gt;
 &lt;p&gt;当然，有了之前学习JavaScript的经验，知道JavaScript和Java八竿子打不到一块，让我对WebScoket的户口保有怀疑。毕竟这个圈子起名字之随意可是出了名的，Java这个名字不就是喝咖啡想起来的嘛。&lt;/p&gt;
     
     </summary>
@@ -36,38 +36,6 @@
       <category term="TCP/IP" scheme="http://yoursite.com/tags/TCP-IP/"/>
     
       <category term="网络编程" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>从Socket到WebSocket</title>
-    <link href="http://yoursite.com/2019/08/23/%E4%BB%8ESocket%E5%88%B0WebSocket/"/>
-    <id>http://yoursite.com/2019/08/23/从Socket到WebSocket/</id>
-    <published>2019-08-23T01:56:36.000Z</published>
-    <updated>2019-08-23T03:10:44.054Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-      <category term="学习笔记" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="TCP/IP" scheme="http://yoursite.com/tags/TCP-IP/"/>
-    
-      <category term="网络编程" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/"/>
-    
-      <category term="Scoket" scheme="http://yoursite.com/tags/Scoket/"/>
-    
-      <category term="WebSocket" scheme="http://yoursite.com/tags/WebSocket/"/>
     
   </entry>
   
@@ -129,17 +97,12 @@
     <link href="http://yoursite.com/2019/06/21/%E4%BB%8E0%E5%88%B01%E5%BC%80%E5%8F%91Java%E9%AB%98%E5%B9%B6%E5%8F%91SSM%E9%A1%B9%E7%9B%AE%E7%9B%AE/"/>
     <id>http://yoursite.com/2019/06/21/从0到1开发Java高并发SSM项目目/</id>
     <published>2019-06-21T09:29:03.000Z</published>
-    <updated>2019-08-05T07:52:00.768Z</updated>
+    <updated>2019-09-03T13:22:49.562Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;从0到1开发java高并发SSM项目&quot;&gt;&lt;a href=&quot;#从0到1开发java高并发SSM项目&quot; class=&quot;headerlink&quot; title=&quot;从0到1开发java高并发SSM项目&quot;&gt;&lt;/a&gt;从0到1开发java高并发SSM项目&lt;/h1&gt;&lt;h2 id=&quot;前排感谢wistbean老师，我是在他的指导下一步一步实现这个项目的开发的！！！&quot;&gt;&lt;a href=&quot;#前排感谢wistbean老师，我是在他的指导下一步一步实现这个项目的开发的！！！&quot; class=&quot;headerlink&quot; title=&quot;前排感谢wistbean老师，我是在他的指导下一步一步实现这个项目的开发的！！！&quot;&gt;&lt;/a&gt;前排感谢wistbean老师，我是在他的指导下一步一步实现这个项目的开发的！！！&lt;/h2&gt;&lt;p&gt;wistbean老师的github：&lt;a href=&quot;https://github.com/wistbean&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/wistbean&lt;/a&gt;&lt;/p&gt;
+      &lt;h2 id=&quot;前排感谢wistbean老师，我是在他的指导下一步一步实现这个项目的开发的！！！&quot;&gt;&lt;a href=&quot;#前排感谢wistbean老师，我是在他的指导下一步一步实现这个项目的开发的！！！&quot; class=&quot;headerlink&quot; title=&quot;前排感谢wistbean老师，我是在他的指导下一步一步实现这个项目的开发的！！！&quot;&gt;&lt;/a&gt;前排感谢wistbean老师，我是在他的指导下一步一步实现这个项目的开发的！！！&lt;/h2&gt;&lt;p&gt;wistbean老师的github：&lt;a href=&quot;https://github.com/wistbean&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/wistbean&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;什么是从0到1&quot;&gt;&lt;a href=&quot;#什么是从0到1&quot; class=&quot;headerlink&quot; title=&quot;什么是从0到1&quot;&gt;&lt;/a&gt;什么是从0到1&lt;/h2&gt;&lt;p&gt;这里的从0到1不是通过我个人魅力把一个gay掰直了，而是通过开发一个电商网站，系统学习Java web开发和SSM框架的使用等知识。&lt;/p&gt;
-&lt;h2 id=&quot;什么是框架&quot;&gt;&lt;a href=&quot;#什么是框架&quot; class=&quot;headerlink&quot; title=&quot;什么是框架&quot;&gt;&lt;/a&gt;什么是框架&lt;/h2&gt;&lt;p&gt;我们在做java开发的时候，会发现很大一部分内容是被重复使用的，比如对数据库的增删改查操作、对实体类和常用接口的实现。&lt;/p&gt;
-&lt;p&gt;如果能把这部分被重复使用的“代码”加以整合，实现取之即用，将大大提高我们的开发效率。而这就框架的特点 — 整个或部分系统的可重用设计&lt;/p&gt;
-&lt;p&gt;一个框架就是一个可复用的设计构件，它规定了应用的体系结构，阐明了整个设计、协作构件之间的依赖关系、责任分配和控制流程，表现为一组抽象类以及其实例之间协作的方法，它为构件复用提供了上下文(Context)关系。&lt;/p&gt;
-&lt;p&gt;框架是实现了某应用领域通用功能的底层服务。使用这种框架的编程人员可以在一个通用功能已经实现的基础上开始具体的系统开发。&lt;/p&gt;
-&lt;p&gt;通俗的说，框架是完成是某种应用的半成品，提供了一些常用的工具类和一些基础通用化的组件，可以供开发人员在此基础上，更便捷的完成各自特有的系统。&lt;/p&gt;
     
     </summary>
     
